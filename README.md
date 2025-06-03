@@ -14,3 +14,10 @@ We'll primarily be using an adjacency list to work with graphs. For each vertex 
 | 2      | 1, 3               |
 | 3      | 1, 2, 4            |
 | 4      | 0, 1, 3            |
+
+
+# Dijkstra's Algorithm
+
+Dijkstra's algorithm (or Dijkstra's Shortest Path First algorithm) is an algorithm for finding the shortest paths between vertices in a graph. For example, I may want to find the shortest path along a road network for my daughter's paper route.
+
+![dijkstra](https://github.com/user-attachments/assets/ff13c1e3-5531-42a5-80f5-c89e75385a76)
